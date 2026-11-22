@@ -1,0 +1,15 @@
+{
+  "ROC_AUC": 1.0,
+  "PR_AUC": 1.0,
+  "Top_3_Precision": 1.0,
+  "Top_5_Precision": 0.8,
+  "Precision_at_threshold": 1.0,
+  "Recall_at_threshold": 1.0,
+  "F1_Score": 1.0,
+  "Confusion_Matrix": {
+    "True_Positives": 4,
+    "False_Positives": 0,
+    "True_Negatives": 6,
+    "False_Negatives": 0
+  }
+}

@@ -1,0 +1,26 @@
+AUTOMATED RESUME SCREENING - EXECUTIVE HIRING REPORT
+============================================================
+
+Total Applicants Processed : 6
+Shortlisted Candidates     : 2
+Under Review Candidates    : 0
+Rejected Candidates        : 4
+
+------------------------------------------------------------
+TOP RECOMMENDED CANDIDATES FOR INTERVIEW:
+------------------------------------------------------------
+• Rank #1: Aarav Sharma (82.3%)
+  Contact  : aarav.sharma@example.com | N/A
+  Rationale: Matched 9/11 must-haves; TF-IDF sim: 0.30; 4.5 yrs exp (Req: 2.0); Missing: data science, flask
+
+• Rank #2: Priya Patel (76.2%)
+  Contact  : priya.patel@example.com | N/A
+  Rationale: Matched 8/11 must-haves; TF-IDF sim: 0.31; 3.2 yrs exp (Req: 2.0); Missing: fastapi, github, rest api
+
+------------------------------------------------------------
+CANDIDATES REJECTED / DISQUALIFIED:
+------------------------------------------------------------
+• Rohan Verma (37.7%) - Missing: data science, flask, github, numpy, pandas, scikit-learn
+• Neha Gupta (30.4%) - Missing: data science, fastapi, flask, github, numpy, rest api, scikit-learn
+• Ananya Reddy (15.7%) - Missing: data science, fastapi, flask, numpy, pandas, python, rest api, scikit-learn, sql
+• Vikas Kumar (3.0%) - Missing: data science, fastapi, flask, git, github, numpy, pandas, python, rest api, scikit-learn, sql

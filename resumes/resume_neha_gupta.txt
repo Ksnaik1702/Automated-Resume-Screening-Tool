@@ -1,0 +1,16 @@
+Neha Gupta
+Email: neha.gupta@example.com | Phone: +91 97654 32109 | Location: Hyderabad, India
+
+PROFESSIONAL SUMMARY
+Junior Data Analyst with 1.5 years experience querying databases, preparing tabular reports, and performing exploratory data analysis using Python, Pandas, SQL, and Excel.
+
+TECHNICAL SKILLS
+Python, Pandas, SQL, Excel, Power BI, Data Analysis, Git
+
+WORK EXPERIENCE
+Junior Analyst at FinTech Insights (1.5 years of experience):
+- Cleaned and transformed structured customer transactional data using Pandas and SQL.
+- Built weekly KPI summary dashboards in Power BI and MS Excel.
+
+EDUCATION
+BCA (Bachelor of Computer Applications), Delhi University

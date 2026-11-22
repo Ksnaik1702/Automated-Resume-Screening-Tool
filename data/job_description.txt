@@ -1,0 +1,26 @@
+Job Title: Python Data Engineer & AI Specialist
+Department: Engineering / Data Science
+Location: Remote / Hybrid
+Experience Level: 2+ Years
+
+Job Summary:
+We are looking for a passionate Python Developer and Data Specialist to build scalable data pipelines, automated processing workflows, and machine learning solutions. The ideal candidate has strong hands-on experience in Python programming, SQL, data manipulation using Pandas and NumPy, and machine learning models with Scikit-learn. Exposure to Docker, Git, REST APIs (FastAPI/Flask), and Cloud platforms (AWS or GCP) is highly desirable.
+
+Must-Have Requirements:
+- 2+ years of professional experience in Python development
+- Proficient in Data Science stack: Python, Pandas, NumPy, Scikit-learn
+- Strong understanding of SQL queries and relational databases
+- Experience building RESTful APIs using FastAPI or Flask
+- Version control using Git and GitHub
+
+Nice-to-Have Requirements:
+- Experience with Docker, CI/CD pipelines
+- Familiarity with Cloud platforms (AWS, GCP, Azure)
+- Understanding of Natural Language Processing (NLP) and TF-IDF
+- Power BI or Tableau data visualization skills
+
+Responsibilities:
+- Design, build, and optimize automated ETL pipelines and data scraping modules
+- Implement machine learning algorithms and similarity scoring models
+- Expose analytics data through high-performance REST APIs
+- Collaborate with cross-functional teams to automate manual business processes
